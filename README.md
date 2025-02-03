@@ -54,6 +54,9 @@ Here’s an example of how to use the application:
 3. Click "Schedule Flights".
 4. The system will display the total number of runways needed and show a timeline chart of runway usage.
 
+## video of demo - 
+https://github.com/user-attachments/assets/37e09fec-4006-439c-80e5-58311e93096c
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
